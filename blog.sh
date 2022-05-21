@@ -16,7 +16,7 @@ cat "blogposts/tail" >>  "blogposts/${2}.html"
 read -p "Summary: " summ
 echo "<?xml version=\"1.0\" encoding=\"utf-8\"?>
 <feed xmlns=\"http://www.w3.org/2005/Atom\">
-<title>Tokhy's hub</title>
+<title>Beyond the Audible Music</title>
 <link href=\"https://tokiesan.github.io/atom.xml\" rel=\"self\"/>
 <updated>"${xmlDate}"</updated>
 <author>
