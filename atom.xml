@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-<title>Tokhy's hub</title>
+<title>Beyond the Audible Music</title>
 <link href="https://tokiesan.github.io/atom.xml" rel="self"/>
-<updated>2021-02-27T04:32:52+02:00</updated>
+<updated>2022-05-21T23:07:30+02:00</updated>
 <author>
 	<name>Ahmed Gamal Eltokhy</name>
 </author>
@@ -80,5 +80,11 @@
 <link href="https://tokiesan.github.io/blogposts/Ycarcotirem.html"/>
 <updated>2021-02-27T04:32:52+02:00</updated>
 <id>https://tokiesan.github.io/blogposts/Ycarcotirem.html</id>
+</entry>
+<entry>
+<title>Perrie: An Exploration of the Gendered Predilection in Music </title><summary>Perrie</summary>
+<link href="https://tokiesan.github.io/blogposts/perrie.html"/>
+<updated>2022-05-21T23:07:30+02:00</updated>
+<id>https://tokiesan.github.io/blogposts/perrie.html</id>
 </entry>
 </feed>
