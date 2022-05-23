@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Beyond the Audible Music</title>
 <link href="https://tokiesan.github.io/atom.xml" rel="self"/>
-<updated>2022-05-23T03:51:30+02:00</updated>
+<updated>2022-05-23T03:58:44+02:00</updated>
 <author>
 	<name>Ahmed Gamal Eltokhy</name>
 </author>
@@ -98,5 +98,11 @@
 <link href="https://tokiesan.github.io/blogposts/theHistoryOfShaabi.html"/>
 <updated>2022-05-23T03:51:30+02:00</updated>
 <id>https://tokiesan.github.io/blogposts/theHistoryOfShaabi.html</id>
+</entry>
+<entry>
+<title>TL;DR The Egyptian Rap Scene</title><summary></summary>
+<link href="https://tokiesan.github.io/blogposts/theRapScene.html"/>
+<updated>2022-05-23T03:58:44+02:00</updated>
+<id>https://tokiesan.github.io/blogposts/theRapScene.html</id>
 </entry>
 </feed>
